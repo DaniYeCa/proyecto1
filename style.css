@@ -1,0 +1,9 @@
+header {
+    background-color: aquamarine;
+}
+
+.logo-header {
+max-height: 15%;
+max-width: 15%;
+position: inherit;
+}
